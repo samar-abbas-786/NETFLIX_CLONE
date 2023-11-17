@@ -7,7 +7,7 @@
 main{
     height: 700px;
     width: 100%;
-    background-image: url(netflix.jpg);
+    background-image: url(img/netflix.jpg);
     background-size: cover;
     background-color: rgb(10, 10, 10);
     display: flex;
